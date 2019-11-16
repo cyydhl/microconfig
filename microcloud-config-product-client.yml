@@ -38,13 +38,7 @@ spring:
 
  profiles: dev 
 
- 
 
-logging: 
-
-  level: 
-
-     cn.itcast.mapper: debug
 
  
 
@@ -126,13 +120,6 @@ spring:
 
  profiles: beta 
 
- 
-
-logging: 
-
-  level: 
-
-    cn.itcast.mapper: debug 
 
  
 
