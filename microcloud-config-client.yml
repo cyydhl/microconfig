@@ -24,13 +24,13 @@ spring:
 
  
 
-eureka: 
+eureka:
 
- client: 
+ client:
 
-  service-url: 
+  service-url:
 
-    defaultZone: http://admin:enjoy@localhost:7001/eureka 
+    defaultZone: http://admin:enjoy@localhost:7301/eureka
 
 --- 
 
