@@ -22,7 +22,11 @@ spring:
 
       name: microconfig-test-client
 
+info: 
 
+  app.name: microcloud-config-client-dev 
+
+  company.name: enjoy 
 
 --- 
 
@@ -41,4 +45,8 @@ spring:
         name: microconfig-test-client
 
  
+info: 
 
+  app.name: microcloud-config-client-dev 
+
+  company.name: enjoy 
