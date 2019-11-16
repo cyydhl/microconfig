@@ -50,10 +50,11 @@ spring:
 
  
 
-eureka: 
 
- client: 
+eureka:
 
-  service-url: 
+ client:
 
-    defaultZone: http://admin:enjoy@localhost:7001/eureka 
+  service-url:
+
+    defaultZone: http://admin:enjoy@localhost:7301/eureka
