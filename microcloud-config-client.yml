@@ -20,7 +20,7 @@ spring:
 
   application: 
 
-      name: microconfig-test-client2 
+      name: microconfig-test-client
 
 
 
@@ -38,7 +38,7 @@ spring:
 
   application: 
 
-        name: microconfig-test-client2  
+        name: microconfig-test-client
 
  
 
