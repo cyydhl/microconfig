@@ -44,7 +44,7 @@ logging:
 
   level: 
 
-    cn.enjoy.mapper: debug 
+     cn.itcast.mapper: debug
 
  
 
@@ -132,7 +132,7 @@ logging:
 
   level: 
 
-    cn.enjoy.mapper: debug 
+    cn.itcast.mapper: debug 
 
  
 
