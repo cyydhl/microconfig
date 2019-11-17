@@ -24,7 +24,7 @@ spring:
 
 info: 
 
-  app.name: microcloud-config-client-beta
+  app.name: microcloud-config-client-devdev
 
   company.name: enjoy 
 
